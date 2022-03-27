@@ -15,6 +15,8 @@ docker file, nginx + next.js 12
 ***
 ### set up 
 
+* myapp: next.js folder
+
 ```
 # next.js
 cd myapp
